@@ -1,0 +1,15 @@
+C:\Users\Kostya\source\repos\HospitalDataBase\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\Kostya\source\repos\HospitalDataBase\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\Kostya\source\repos\HospitalDataBase\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\Kostya\source\repos\HospitalDataBase\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kostya\source\repos\HospitalDataBase\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Kostya\source\repos\HospitalDataBase\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Kostya\source\repos\HospitalDataBase\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kostya\source\repos\HospitalDataBase\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\Kostya\source\repos\HospitalDataBase\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\Kostya\source\repos\HospitalDataBase\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\Kostya\source\repos\HospitalDataBase\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\Kostya\source\repos\HospitalDataBase\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\Kostya\source\repos\HospitalDataBase\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Kostya\source\repos\HospitalDataBase\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Kostya\source\repos\HospitalDataBase\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date

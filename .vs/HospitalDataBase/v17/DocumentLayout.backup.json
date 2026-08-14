@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39442576-1C5F-412C-821C-6B529E48C5E3}|BLL\\BLL.csproj|c:\\users\\kostya\\source\\repos\\hospitaldatabase\\bll\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442576-1C5F-412C-821C-6B529E48C5E3}|BLL\\BLL.csproj|solutionrelative:bll\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B64245-7A45-4372-8D18-0D62E66225AB}|HospitalDataBase\\HospitalDataBase.csproj|C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\hospitaldatabase\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2B64245-7A45-4372-8D18-0D62E66225AB}|HospitalDataBase\\HospitalDataBase.csproj|solutionrelative:hospitaldatabase\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FEAA1F-5962-4815-BFE3-33C3EAC50BF5}|DAL\\DAL.csproj|c:\\users\\kostya\\source\\repos\\hospitaldatabase\\dal\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FEAA1F-5962-4815-BFE3-33C3EAC50BF5}|DAL\\DAL.csproj|solutionrelative:dal\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FEAA1F-5962-4815-BFE3-33C3EAC50BF5}|DAL\\DAL.csproj|c:\\users\\kostya\\source\\repos\\hospitaldatabase\\dal\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FEAA1F-5962-4815-BFE3-33C3EAC50BF5}|DAL\\DAL.csproj|solutionrelative:dal\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FEAA1F-5962-4815-BFE3-33C3EAC50BF5}|DAL\\DAL.csproj|c:\\users\\kostya\\source\\repos\\hospitaldatabase\\dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FEAA1F-5962-4815-BFE3-33C3EAC50BF5}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65521AE-D4F8-4FA9-91EE-B9761DC67734}|HospitalDataBase\\HospitalDataBase.csproj|c:\\users\\kostya\\source\\repos\\hospitaldatabase\\hospitaldatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65521AE-D4F8-4FA9-91EE-B9761DC67734}|HospitalDataBase\\HospitalDataBase.csproj|solutionrelative:hospitaldatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65521AE-D4F8-4FA9-91EE-B9761DC67734}|HospitalDataBase\\HospitalDataBase.csproj|c:\\users\\kostya\\source\\repos\\hospitaldatabase\\hospitaldatabase\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65521AE-D4F8-4FA9-91EE-B9761DC67734}|HospitalDataBase\\HospitalDataBase.csproj|solutionrelative:hospitaldatabase\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442576-1C5F-412C-821C-6B529E48C5E3}|BLL\\BLL.csproj|c:\\users\\kostya\\source\\repos\\hospitaldatabase\\bll\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442576-1C5F-412C-821C-6B529E48C5E3}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 388,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\BLL\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\BLL\\Services\\PatientService.cs",
+              "RelativeToolTip": "BLL\\Services\\PatientService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:57:55.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\DAL\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DAL\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\DAL\\UnitOfWork.cs",
+              "RelativeToolTip": "DAL\\UnitOfWork.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:44:18.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\DAL\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\DAL\\HospitalDbContext.cs",
+              "RelativeToolTip": "DAL\\HospitalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:43:20.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:37:22.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\HospitalDataBase\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalDataBase\\Program.cs",
+              "ToolTip": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\HospitalDataBase\\Program.cs",
+              "RelativeToolTip": "HospitalDataBase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:15:37.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\HospitalDataBase\\MainMenu.cs",
+              "RelativeDocumentMoniker": "HospitalDataBase\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\HospitalDataBase\\MainMenu.cs",
+              "RelativeToolTip": "HospitalDataBase\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:15:39.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\BLL\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\BLL\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:32:53.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\HospitalDataBase\\MainMenu.cs",
+              "RelativeDocumentMoniker": "HospitalDataBase\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Kostya\\source\\repos\\HospitalDataBase\\HospitalDataBase\\MainMenu.cs [Design]",
+              "RelativeToolTip": "HospitalDataBase\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:26:39.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="appsettings.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="15.0.1" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.7" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.7" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.7" />
+    <PackageReference Include="System.Linq" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj" />
+    <ProjectReference Include="..\DAL\DAL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{3259aa49-8aa1-44d3-9025-a0b520596a8c}" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+</Project>
